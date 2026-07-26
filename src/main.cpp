@@ -1,5 +1,7 @@
 #include <iostream>
 #include <string>
+#include <cstdlib>
+#include <ctime>
 #include <unordered_map>
 #include <vector>
 #include "../include/cards.hpp"
